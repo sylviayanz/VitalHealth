@@ -58,3 +58,16 @@ In order to evaluate campaign performance, we focused on the following key metri
 • The Compare Health Coverage campaign exhibited a consistent positive trajectory throughout 2021-2022, reaching peak performance at $173K in July 2022, followed by a substantial decrease in subsequent periods, attributed to a corresponding reduction in claim frequency. 
 
 •The Compare Health Coverage campaign customers generated the highest average claim value ($410) and maximum total claims. Within this segment, the Customer Testimonial campaign type drove the highest aggregate claim volume ($2.9M) and per-claim average ($499).
+
+
+
+# Recommendations
+
+Recommendations focus on two strategies: removing ineffective campaign categories and reallocating budget towards categories with better performance across north star metrics.
+
+-   **Health for All**: Reallocate budget from Golden Years Security, which has high cost per acquisition, to Health for All campaigns. The second category outperforms across all key metrics, especially high CTR(36%), and signup rate(2.9%).
+-   **Health Awareness**: Within Health for All campaigns, focus on health awareness-type marketing, and less on product promotion-type campaigns, which had low signup rate and CTR.
+- **Benefit Updates & Affordable Plans**: Even though these campaigns have high CTR, they exhibit low signup counts (below 100) and high cost per signup, indicating a need for conversion funnel optimization.
+-   **COVID Campaigns**: Investigate the cause of abnormally high cost per signup for COVID-based campaigns, which had 2 signups that costed over $1K, compared to an average signup cost of $2.2. Consider removing these campaigns altogether.
+-   **Family Coverage Plan:**  Investigate the lack of clicks despite high impressions, as there are likely issues with the campaign or missing data.
+
