@@ -77,3 +77,18 @@ The dashboard can be found in Tableau Public  [here](https://public.tableau.com/
 
 ![VitalHealth Dashboard](https://github.com/user-attachments/assets/a0f59345-267e-4e6e-9f44-eb562645f63f)
 
+
+
+Presentation Sample
+The presentation created for the marketing team walks through the insights and recommendations above and can be found [here](https://public.tableau.com/app/profile/sylvia.tsai/viz/VitalHealthCampaignDashboard/Dashboard2). Some extracts are presented below for easy viewing.
+
+
+
+![image](https://github.com/user-attachments/assets/2f670fd9-9694-42f5-a58a-72ad778e75ad)
+
+![image](https://github.com/user-attachments/assets/5ed81474-4ecf-444b-b5f2-fddfd4081535)
+
+![image](https://github.com/user-attachments/assets/4be9bdba-f70a-4850-88ba-8b0a13bac3f3)
+
+
+
