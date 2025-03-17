@@ -13,11 +13,6 @@ The dataset consisted of three tables, including information about **campaigns, 
 
 ![image](https://github.com/user-attachments/assets/2926bf12-68b8-4088-8081-34a7cec1b214)
 
-<img width="1698" alt="Screenshot 2025-03-17 at 2 23 17 PM" src="https://github.com/user-attachments/assets/9f8c9940-7dc6-4e34-9db9-57f87ca61286" />
-
-
-<img width="1701" alt="Screenshot 2025-03-17 at 2 23 30 PM" src="https://github.com/user-attachments/assets/43a3c6e7-4477-4add-afdf-ed60112f5e91" />
-
 
 # Insights Summary
 ## North Star Metrics
@@ -80,7 +75,11 @@ Recommendations focus on two strategies: removing ineffective campaign categorie
 
 The dashboard can be found in Tableau Public  [here](https://public.tableau.com/views/VitalHealthCampaignDashboard/Dashboard2). This dashboard enables users to filter by plan, campaign type, and state, and focuses on trends and values in marketing metrics, signup metrics, and claim metrics.
 
-![VitalHealth Dashboard](https://github.com/user-attachments/assets/a0f59345-267e-4e6e-9f44-eb562645f63f)
+<img width="1698" alt="Screenshot 2025-03-17 at 2 23 17 PM" src="https://github.com/user-attachments/assets/9f8c9940-7dc6-4e34-9db9-57f87ca61286" />
+
+
+<img width="1701" alt="Screenshot 2025-03-17 at 2 23 30 PM" src="https://github.com/user-attachments/assets/43a3c6e7-4477-4add-afdf-ed60112f5e91" />
+
 
 
 # Presentation Sample
