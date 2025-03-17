@@ -79,7 +79,7 @@ The dashboard can be found in Tableau Public  [here](https://public.tableau.com/
 
 
 # Presentation Sample
-The presentation created for the marketing team walks through the insights and recommendations above and can be found [here](https://public.tableau.com/app/profile/sylvia.tsai/viz/VitalHealthCampaignDashboard/Dashboard2). Some extracts are presented below for easy viewing.
+The presentation created for the marketing team walks through the insights and recommendations above and can be found [here](https://docs.google.com/presentation/d/1zSmZwrUJlEyKuTN30EHe6eOMb6sFFTvl/edit?usp=sharing&ouid=114399832306772956211&rtpof=true&sd=true). Some extracts are presented below for easy viewing.
 
 
 <img src="https://github.com/user-attachments/assets/c071f9b2-e7c7-4b31-b4cb-caed10f34b84" width="100%">
