@@ -1,6 +1,6 @@
 # Vital Health Marketing Insights - Project Overview
 
-## The goal of this project is to investigate the performance of marketing campaigns at Row Health in order to surface recommendations on marketing budget allocation across future campaign categories.
+## The goal of this project is to investigate the performance of marketing campaigns at Vital Health in order to surface recommendations on marketing budget allocation across future campaign categories.
 
 Founded in 2016, Vital Health is a medical insurance company serving over thousands of customers throughout the United States. In 2019, they launched a new set of marketing campaign categories spanning topics like wellness tips, the affordability of their plans, and preventative care. Their customers can sign up for 4 different plans - bronze, silver, gold, and platinum - each with different premiums and claim coverage rates.
 
