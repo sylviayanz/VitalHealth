@@ -70,3 +70,10 @@ Recommendations focus on two strategies: removing ineffective campaign categorie
 -   **COVID Campaigns**: Investigate the cause of abnormally high cost per signup for COVID-based campaigns, which had 2 signups that costed over $1K, compared to an average signup cost of $2.2. Consider removing these campaigns altogether.
 -   **Family Coverage Plan:**  Investigate the lack of clicks despite high impressions, as there are likely issues with the campaign or missing data.
 
+
+# Dashboard
+
+The dashboard can be found in Tableau Public  [here](https://public.tableau.com/views/VitalHealthCampaignDashboard/Dashboard2). This dashboard enables users to filter by plan, campaign type, and state, and focuses on trends and values in marketing metrics, signup metrics, and claim metrics.
+
+![VitalHealth Dashboard](https://github.com/user-attachments/assets/a0f59345-267e-4e6e-9f44-eb562645f63f)
+
