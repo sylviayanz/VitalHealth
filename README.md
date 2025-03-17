@@ -82,7 +82,6 @@ The dashboard can be found in Tableau Public  [here](https://public.tableau.com/
 The presentation created for the marketing team walks through the insights and recommendations above and can be found [here](https://public.tableau.com/app/profile/sylvia.tsai/viz/VitalHealthCampaignDashboard/Dashboard2). Some extracts are presented below for easy viewing.
 
 
-![North Star](https://github.com/user-attachments/assets/204be60a-7484-442c-a116-632698814fd2)
-
-
-
+<img src="https://github.com/user-attachments/assets/c071f9b2-e7c7-4b31-b4cb-caed10f34b84" width="100%">
+<img src="https://github.com/user-attachments/assets/bc4ce6ed-01c5-4f69-8125-648c96f4fdc9" width="100%">
+<img src="https://github.com/user-attachments/assets/9dc82b6b-1124-4fc8-8003-2182ef7254c6" width="100%">
