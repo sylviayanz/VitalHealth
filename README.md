@@ -6,7 +6,7 @@ Founded in 2016, Vital Health is a medical insurance company serving over thousa
 
 Now that they’ve hired a new data team and are strategizing their marketing budget for the year, the company would like to build more understanding of the effectiveness of these campaign categories and how they relate to signups and subsequent patient claims. The budget is allocated to drive two primary objectives: 
 1) to increase the number of customer signups
-2) to raise awareness of Row Health’s brand across the country.
+2) to raise awareness of Vital Health’s brand across the country.
 
 
 # Dataset Structure
